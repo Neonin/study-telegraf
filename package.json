@@ -7,6 +7,8 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "axios": "^0.20.0",
+    "currency-codes": "^2.1.0",
     "telegraf": "^3.38.0"
   },
   "devDependencies": {
